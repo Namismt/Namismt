@@ -10,4 +10,4 @@
 <h2>Languages and tools (Staus e Linguagens):</h2>
 
 ![Namismt GitHub stats](https://github-readme-stats.vercel.app/api?username=Namismt)
-<image height="25" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namismt">
+<image height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namismt">
