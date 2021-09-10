@@ -4,7 +4,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: create new projects and find a new job.
 
 
 <h2>Languages and tools (Staus e Linguagens):</h2>
